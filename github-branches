@@ -2,11 +2,11 @@
 Fetching upstream
 Fetching origin
   bug-fix-revert                9eab171 [origin/bug-fix-revert] Revert "Fix typo in simple interest script"
-  bug-fix-typo                  a0ff036 [origin/bug-fix-typo: ahead 3] Fix README wording typo
-* main                          a0ff036 [origin/main: ahead 1] Fix README wording typo
+  bug-fix-typo                  a0ff036 [origin/bug-fix-typo] Fix README wording typo
+* main                          85dbad1 [origin/main] Update final project submission outputs
   remotes/origin/HEAD           -> origin/main
   remotes/origin/bug-fix-revert 9eab171 Revert "Fix typo in simple interest script"
-  remotes/origin/bug-fix-typo   17d2538 Fix typo in simple interest script
-  remotes/origin/main           f0092ae Add submission answer guide
+  remotes/origin/bug-fix-typo   a0ff036 Fix README wording typo
+  remotes/origin/main           85dbad1 Update final project submission outputs
   remotes/upstream/HEAD         -> upstream/main
   remotes/upstream/main         ad95b0a Create close_pr.yml
