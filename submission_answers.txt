@@ -1,0 +1,37 @@
+﻿Final Project Submission Answers
+
+Task 1 README.md URL:
+https://github.com/Vietnhb/mcino-Introduction-to-Git-and-GitHub/blob/main/README.md
+
+Task 2 LICENSE URL:
+https://github.com/Vietnhb/mcino-Introduction-to-Git-and-GitHub/blob/main/LICENSE
+
+Task 3 CODE_OF_CONDUCT URL:
+https://github.com/Vietnhb/mcino-Introduction-to-Git-and-GitHub/blob/main/CODE_OF_CONDUCT
+
+Task 4 CONTRIBUTING.md URL:
+https://github.com/Vietnhb/mcino-Introduction-to-Git-and-GitHub/blob/main/CONTRIBUTING.md
+
+Task 5 simple-interest.sh URL:
+https://github.com/Vietnhb/mcino-Introduction-to-Git-and-GitHub/blob/main/simple-interest.sh
+
+Task 6:
+Copy and paste the full contents of the file named forked-repo.
+Local file: C:\Users\kemin\Desktop\git\mcino-Introduction-to-Git-and-GitHub\forked-repo
+GitHub URL: https://github.com/Vietnhb/mcino-Introduction-to-Git-and-GitHub/blob/main/forked-repo
+
+Task 7:
+Copy and paste the full contents of the file named merge_branches.
+Local file: C:\Users\kemin\Desktop\git\mcino-Introduction-to-Git-and-GitHub\merge_branches
+GitHub URL: https://github.com/Vietnhb/mcino-Introduction-to-Git-and-GitHub/blob/main/merge_branches
+
+Task 8:
+Copy and paste the full contents of the file named bug-fix-revert.
+Local file: C:\Users\kemin\Desktop\git\mcino-Introduction-to-Git-and-GitHub\bug-fix-revert
+GitHub URL: https://github.com/Vietnhb/mcino-Introduction-to-Git-and-GitHub/blob/main/bug-fix-revert
+Pull request URL: https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/8439
+
+Task 9:
+Copy and paste the full contents of the file named github-branches.
+Local file: C:\Users\kemin\Desktop\git\mcino-Introduction-to-Git-and-GitHub\github-branches
+GitHub URL: https://github.com/Vietnhb/mcino-Introduction-to-Git-and-GitHub/blob/main/github-branches
