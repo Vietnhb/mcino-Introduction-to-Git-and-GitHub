@@ -1,0 +1,12 @@
+﻿$ git branch -avv
+Fetching upstream
+Fetching origin
+* bug-fix-revert                9eab171 [origin/bug-fix-revert] Revert "Fix typo in simple interest script"
+  bug-fix-typo                  17d2538 [origin/bug-fix-typo] Fix typo in simple interest script
+  main                          17d2538 [origin/main] Fix typo in simple interest script
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 9eab171 Revert "Fix typo in simple interest script"
+  remotes/origin/bug-fix-typo   17d2538 Fix typo in simple interest script
+  remotes/origin/main           17d2538 Fix typo in simple interest script
+  remotes/upstream/HEAD         -> upstream/main
+  remotes/upstream/main         ad95b0a Create close_pr.yml
